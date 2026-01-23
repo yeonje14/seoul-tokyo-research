@@ -64,7 +64,7 @@
 ---
 
 ## 🖥 Interactive Web Map
-- **[🔗 Check the Interactive Map](여기에_본인의_GitHub_Pages_주소를_넣으세요)**
+- **[🔗 Check the Interactive Map](https://yeonje14.github.io/seoul-tokyo-research/)**
 
 ---
 © 2026 Yeonje Lee. Computer Engineering, Changwon National University.
